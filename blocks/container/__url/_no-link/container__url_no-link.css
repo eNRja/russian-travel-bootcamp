@@ -1,0 +1,11 @@
+.container__url_no-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    color: #AAAAAA;
+    padding-bottom: 12px;
+    margin: 0;
+}

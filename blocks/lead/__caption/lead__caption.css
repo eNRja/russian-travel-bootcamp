@@ -1,0 +1,34 @@
+.lead__caption {
+    margin: 0 auto 0 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    max-width: 984px;
+}
+
+@media (max-width : 1279px) {
+    .lead__caption {
+        max-width: 928px;
+    }
+}
+
+@media (max-width : 1023px) {
+    .lead__caption {
+        max-width: 768px;
+        margin-left: 24px;
+        margin: 0 auto 0 24px;
+  }
+}
+
+@media (max-width : 767px) {
+    .lead__caption {
+        max-width: 320px;
+        margin-left: 16px;
+        margin: 0 auto 0 16px;
+  }
+}
