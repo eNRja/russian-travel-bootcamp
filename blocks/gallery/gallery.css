@@ -7,14 +7,14 @@
     gap: 16px;
   }
 
-@media (max-width : 1279px) {
+@media (max-width: 1279px) {
     .gallery {
       grid-template-columns: repeat(3, 1fr);
       gap: 14px;
     }
 }
 
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
     .gallery {
       margin: 92px 24px 12px;
       grid-template-columns: repeat(2, 1fr);
@@ -22,7 +22,7 @@
   }
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
   .gallery {
     margin: 92px 16px 12px;
     grid-template-columns: repeat(1, 1fr);

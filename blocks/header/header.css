@@ -4,13 +4,13 @@
     justify-content: space-between;
 }
 
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
     .header {
         padding: 28px 24px;
   }
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .header {
         min-width: 288px;
         margin: 0;

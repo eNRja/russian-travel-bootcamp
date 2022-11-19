@@ -8,7 +8,7 @@
     max-width: 984px;
 }
 
-@media (max-width : 1279px) {
+@media (max-width: 1279px) {
     .container {
         max-width: 928px;
         grid-template-columns: 440px 1fr;
@@ -16,7 +16,7 @@
     }
 }
 
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
     .container {
         max-width: 720px;
         grid-template-columns: 340px 1fr;
@@ -24,7 +24,7 @@
   }
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
   .container {
       max-width: 320px;
       grid-template-columns: repeat(1, 1fr);

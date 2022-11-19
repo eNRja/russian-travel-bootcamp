@@ -5,7 +5,7 @@
     background-image: url(../../../images/header-logo.svg);
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
   .header {
     min-width: 142px;
     min-height: 42px;
