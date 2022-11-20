@@ -20,15 +20,14 @@
 @media (max-width: 1023px) {
     .lead__caption {
         max-width: 768px;
-        margin-left: 24px;
         margin: 0 auto 0 24px;
   }
 }
 
 @media (max-width: 767px) {
     .lead__caption {
-        max-width: 320px;
-        margin-left: 16px;
-        margin: 0 auto 0 16px;
+        max-width: 288px;
+        margin: 0 auto 0 0;
+        padding-left: 16px;
   }
 }
