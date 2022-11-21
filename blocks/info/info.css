@@ -1,23 +1,22 @@
 .info {
-    margin: 0 auto;
-    min-width: 984px;
+  margin: 0 auto;
+  min-width: 984px;
 }
 
 @media (max-width: 1279px) {
   .info {
-      min-width: 928px;
+    min-width: 928px;
   }
 }
 
 @media (max-width: 1023px) {
   .info {
-      min-width: 720px;
+    min-width: 720px;
   }
 }
 
 @media (max-width: 767px) {
   .info {
-      min-width: 288px;
-      margin-bottom: 64px;
+    min-width: 288px;
   }
 }

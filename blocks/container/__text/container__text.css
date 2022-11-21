@@ -1,15 +1,15 @@
 .container__text {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 163%;
-    color: #FFFFFF;
+  font-family: 'Inter', Arial;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #FFFFFF;
 }
 
 @media (max-width: 767px) {
-    .container__text {
-        font-size: 16px;
-        margin: 0 16px;
+  .container__text {
+    font-size: 16px;
+    margin: 0 16px;
   }
 }

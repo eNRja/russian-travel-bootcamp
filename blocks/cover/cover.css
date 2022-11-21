@@ -1,11 +1,17 @@
 .cover {
-    display: flex;
-    margin: 92px auto 0;
-    padding: 0;
+  display: flex;
+  margin: 92px auto 0;
+  padding: 0;
+}
+
+@media (max-width: 1023px) {
+  .cover {
+    margin: 90px 0 0;
+  }
 }
 
 @media (max-width: 767px) {
-    .cover {
-        margin: 66px 0 0;
-    }
+  .cover {
+    margin: 66px 0 0;
+  }
 }

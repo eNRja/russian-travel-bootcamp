@@ -1,0 +1,17 @@
+.container__url-heading {
+  font-family: 'Inter', Arial;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+  padding-bottom: 12px;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .container__url-heading {
+    width: 288px;
+  }
+}
