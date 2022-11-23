@@ -16,7 +16,7 @@
 }
 
 @media (max-width: 767px) {
-  .header {
+  .header__lang {
     font-size: 18px;
     line-height: 20px;
     text-align: right;

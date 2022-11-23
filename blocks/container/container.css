@@ -18,6 +18,7 @@
 
 @media (max-width: 1023px) {
   .container {
+    margin: 73px auto 0;
     max-width: 720px;
     grid-template-columns: 340px 1fr;
     gap: 48px 28px;
@@ -31,6 +32,5 @@
     justify-items: center;
     gap: 32px;
     margin: 50px auto 0;
-
   }
 }

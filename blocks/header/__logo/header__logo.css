@@ -6,8 +6,9 @@
 }
 
 @media (max-width: 767px) {
-  .header {
+  .header__logo {
     min-width: 142px;
     min-height: 42px;
+    background-size: cover;
   }
 }

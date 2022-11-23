@@ -2,3 +2,7 @@
   margin: 0 auto 26px 0;
   align-self: start;
 }
+
+.container__pos:last-child {
+  margin: 0 auto 0 0;
+}
